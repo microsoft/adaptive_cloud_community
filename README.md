@@ -24,12 +24,12 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link | [Join the Teams call](https://aka.ms/joinazurearcmeetup)
-| 📝 Meeting Presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
-| 🎥 Meeting Recordings | [Watch](https://github.com/microsoft/azure_arc_community/tree/main/Recordings/Monthly)
-<!-- | 📅 Upcoming meetup calendar invite | [Download](https://1drv.ms/u/s!AijpyBD4mDldb1Gt9Xbe5N_taLg) -->
+| 🔗 Meeting Teams link | [Join the Teams call](https://aka.ms/joinazurearcmeetup)
+| 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
+| 🎥 Meeting recordings | [Watch](https://github.com/microsoft/azure_arc_community/tree/main/Recordings/Monthly)
+| 📅 Upcoming meetup calendar invite | [Download](https://aka.ms/AzureArcMeetupICS)
 
-**NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
+> **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
 1. Download the _.ics_ file
 2. Open Outlook for the web
@@ -71,7 +71,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow 
+trademarks or logos is subject to and must follow.
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
