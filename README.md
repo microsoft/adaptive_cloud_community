@@ -10,7 +10,7 @@ Once a month, the various Azure Hybrid Cloud product groups at Microsoft will ho
 
 ## Who is the "community"
 
-Rather you are a customer, partner, Microsoft employee or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and public because all our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
+Rather you are a customer, partner, Microsoft employee or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
 
 ## Meetup agenda
 
@@ -27,13 +27,13 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 🔗 Meeting Link | [Join the Teams call](https://aka.ms/joinazurearcmeetup)
 | 📝 Meeting Presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
 | 🎥 Meeting Recordings | [Watch](https://github.com/microsoft/azure_arc_community/tree/main/Recordings/Monthly)
-| 📅 Calendar invite | [Download](https://1drv.ms/u/s!AijpyBD4mDldb1Gt9Xbe5N_taLg)
+<!-- | 📅 Upcoming meetup calendar invite | [Download](https://1drv.ms/u/s!AijpyBD4mDldb1Gt9Xbe5N_taLg) -->
 
 **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
-1. Download the .ics file
+1. Download the _.ics_ file
 2. Open Outlook for the web
-3. Drag and drop the .ics file onto your calendar
+3. Drag and drop the _.ics_ file onto your calendar
 
 ## Schedule
 
@@ -46,9 +46,9 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 ## Azure Hybrid Cloud resources
 
 - [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
+- [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 - [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
 - [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
-- [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 
 ## Contact Us
 
