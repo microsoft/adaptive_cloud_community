@@ -8,7 +8,7 @@ Once a month, the various Azure Hybrid Cloud product groups at Microsoft will ho
 - Host a short talk and/or demo on Azure Hybrid Cloud technologies and products technologies
 - Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Hybrid Cloud technologies and products
 
-## Who is the "community"
+## Who is the "community"?
 
 If you are a customer, partner, Microsoft employee or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
 
