@@ -10,7 +10,7 @@ Once a month, the various Azure Hybrid Cloud product groups at Microsoft will ho
 
 ## Who is the "community"
 
-Rather you are a customer, partner, Microsoft employee or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
+If you are a customer, partner, Microsoft employee or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
 
 ## Meetup agenda
 
