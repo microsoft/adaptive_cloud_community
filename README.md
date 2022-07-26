@@ -27,7 +27,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 🔗 Meeting Teams link | [Join the Teams call](https://aka.ms/joinazurearcmeetup)
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
 | 🎥 Meeting recordings | [Watch](https://github.com/microsoft/azure_arc_community/tree/main/Recordings/Monthly)
-| 📅 Upcoming meetup calendar invite | [Download](https://aka.ms/AzureArcMeetupICS)
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://aka.ms/AzureArcMeetupICS)
 
 > **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
