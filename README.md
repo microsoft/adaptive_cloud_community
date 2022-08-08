@@ -16,7 +16,7 @@ If you are a customer, partner, Microsoft employee or just someone who loves tec
 
 Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
-- 5 minutes: Welcome
+- 2 minutes: Welcome
 - 45-50 minutes: Product updates
 - 5-10 minutes: “Ask us anything” and feedback discussion
 
