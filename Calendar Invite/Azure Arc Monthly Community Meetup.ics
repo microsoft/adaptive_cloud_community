@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Lior Kamrat";RSVP=FALSE:mailto:likamrat@microsoft.com
+CLASS:PUBLIC
+CREATED:20220919T202401Z
+DESCRIPTION:Hey everyone\,\n\n\n\n\nPlease join us for our Azure Arc monthl
+	y community meetup\, recurring the last Tuesday of each month.\n\n\n\n\nFe
+	el free to checkout out our GitHub repository <https://nam06.safelinks.pro
+	tection.outlook.com/?url=https%3A%2F%2Faka.ms%2FAzureArcMonthlyMeetup&data
+	=05%7C01%7Clikamrat%40microsoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C7
+	2f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637992158127266501%7CUnknown%7CT
+	WFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0
+	%3D%7C3000%7C%7C%7C&sdata=7YttRaN3mHTPSOudRbQujNeWXmbhwkHzGjc4sCmB4Sc%3D&r
+	eserved=0>  where you can find previous recording and decks and the ics fi
+	le for this meeting. \n\n\n\n\nWe are looking forward to seeing you all!\n
+	\n\n\n\n__________________________________________________________________
+	______________ \nMicrosoft Teams meeting \nJoin on your computer\, mobile 
+	app or room device \nClick here to join the meeting <https://teams.microso
+	ft.com/l/meetup-join/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/
+	1663619007963?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db
+	47%22%2c%22Oid%22%3a%2251e61f55-8b80-4e86-b936-84c85cd9db4c%22%7d>  \nMeet
+	ing ID: 229 505 202 791 \nPasscode: e27acC \nDownload Teams <https://nam06
+	.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fe
+	n-us%2Fmicrosoft-teams%2Fdownload-app&data=05%7C01%7Clikamrat%40microsoft.
+	com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd011db47%
+	7C1%7C0%7C637992158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiL
+	CJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oTrA2U
+	f86uYrBLvVZT0fudlx4y%2Bu299Zz2YImrsgjGc%3D&reserved=0>  | Join on the web 
+	<https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mic
+	rosoft.com%2Fmicrosoft-teams%2Fjoin-a-meeting&data=05%7C01%7Clikamrat%40mi
+	crosoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd
+	011db47%7C1%7C0%7C637992158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wL
+	jAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdat
+	a=VsrLJnd11pHI9JHP4RNxe2I9yklQt0aTLyTAYJW8NxA%3D&reserved=0> \nOr call in 
+	(audio only) \n+1 323-849-4874\,\,285387578# <tel:+13238494874\,\,28538757
+	8#>    United States\, Los Angeles \nPhone Conference ID: 285 387 578# \nF
+	ind a local number <https://nam06.safelinks.protection.outlook.com/?url=ht
+	tps%3A%2F%2Fdialin.teams.microsoft.com%2F8551f4c1-bea3-441a-8738-69aa517a9
+	1c5%3Fid%3D285387578&data=05%7C01%7Clikamrat%40microsoft.com%7C3c219a2b0b4
+	e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C6379921
+	58127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLC
+	JBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=cM8lafNNahEWE81gAPQb4N5
+	j%2FCx6Ve1n3mWmSNWZspo%3D&reserved=0>  | Reset PIN <https://nam06.safelink
+	s.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fu
+	sp%2Fpstnconferencing&data=05%7C01%7Clikamrat%40microsoft.com%7C3c219a2b0b
+	4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637992
+	158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiL
+	CJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1O0Uk48cJ39%2BSeV%2FBG
+	GS4ze4U2W35ZoyaW8fH0Bavhw%3D&reserved=0>  \nLearn More <https://nam06.safe
+	links.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting&
+	data=05%7C01%7Clikamrat%40microsoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d
+	%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637992158127266501%7CUnknown
+	%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI
+	6Mn0%3D%7C3000%7C%7C%7C&sdata=%2Fbhk8afUsx%2BqRStduNsZoLuqIntDm%2F8pYkg7hh
+	K1IRw%3D&reserved=0>  | Meeting options <https://nam06.safelinks.protectio
+	n.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3
+	ForganizerId%3D51e61f55-8b80-4e86-b936-84c85cd9db4c%26tenantId%3D72f988bf-
+	86f1-41af-91ab-2d7cd011db47%26threadId%3D19_227a226ae75f4ffabc67f77a9d439d
+	15%40thread.tacv2%26messageId%3D1663619007963%26language%3Den-US&data=05%7
+	C01%7Clikamrat%40microsoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988
+	bf86f141af91ab2d7cd011db47%7C1%7C0%7C637992158127422709%7CUnknown%7CTWFpbG
+	Zsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7
+	C3000%7C%7C%7C&sdata=OCqsn9l%2BGDOkBb8C3NRh0C%2FYdgIkPj23sR1zcl8UJ4o%3D&re
+	served=0>  \n_____________________________________________________________
+	___________________ \n
+DTEND;TZID="Pacific Standard Time":20220927T090000
+DTSTAMP:20220919T202329Z
+DTSTART;TZID="Pacific Standard Time":20220927T080000
+LAST-MODIFIED:20220919T202401Z
+ORGANIZER;CN="Azure Arc Community Meetup":invalid:nomail
+PRIORITY:5
+RRULE:FREQ=MONTHLY;BYDAY=TU;BYSETPOS=-1
+SEQUENCE:0
+SUMMARY:Azure Arc Monthly Community Meetup
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000043B6CEAD65CCD801000000000000000
+	010000000D96E4BCEE9B73F4B917BD7DF9116945F
+X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-size: 11pt\;font-style: i
+	nherit\;font-weight: inherit">Hey everyone\,</span></p><p><br></p><p><span
+	 style="font-size: 11pt\;font-style: inherit\;font-weight: inherit">Please
+	 join us for our Azure Arc monthly community meetup\, </span>recurring&nbs
+	p\;<span style="font-size: 11pt\;font-style: inherit\;font-weight: inherit
+	">the last Tuesday of each month.</span></p><p><br></p><p><span style="fon
+	t-size: 11pt\;font-style: inherit\;font-weight: inherit">Feel free to chec
+	kout out our <a data-cke-saved-href="https://aka.ms/AzureArcMonthlyMeetup"
+	 href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa
+	ka.ms%2FAzureArcMonthlyMeetup&amp\;data=05%7C01%7Clikamrat%40microsoft.com
+	%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd011db47%7C1
+	%7C0%7C637992158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQ
+	IjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp\;sdata=7Ytt
+	RaN3mHTPSOudRbQujNeWXmbhwkHzGjc4sCmB4Sc%3D&amp\;reserved=0" originalsrc="h
+	ttps://aka.ms/AzureArcMonthlyMeetup" shash="wB1vAOovOlIhB2Cj0pHGuWEybvvZee
+	CO4T2JSkkajAQgGo033uOqMxdxsrTYalevpy5VVaZrrciZ4MpAk+d5ta4s8QnhWiJu9TWLqCGI
+	Xtj/QPJ9Kn2ts96/F4ZT+GEbA0INarQziM0Jl6WEIeI+IZYTrKG3kWTfUEM3CFilIcE=" targ
+	et="_blank" rel="noreferrer noopener" title="https://aka.ms/AzureArcMonthl
+	yMeetup">GitHub repository</a> where you can find previous recording and d
+	ecks and the ics file for this meeting. </span></p><p><br></p><p><span sty
+	le="font-size: 11pt\;font-style: inherit\;font-weight: inherit">We are loo
+	king forward to seeing you all!</span></p><div><br><br><br><div style="wid
+	th:100%\;height: 20px\;">\n    <span style="white-space:nowrap\;color:#5F5
+	F5F\;opacity:.36\;">______________________________________________________
+	__________________________</span>\n</div>\n \n <div class="me-email-text" 
+	style="color:#252424\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\
+	,Arial\,sans-serif\;" lang="en-US">\n    <div style="margin-top: 24px\; ma
+	rgin-bottom: 20px\;">\n        <span style="font-size: 24px\; color:#25242
+	4">Microsoft Teams meeting</span>\n    </div>\n    <div style="margin-bott
+	om: 20px\;">\n        <div style="margin-top: 0px\; margin-bottom: 0px\; f
+	ont-weight: bold">\n          <span style="font-size: 14px\; color:#252424
+	">Join on your computer\, mobile app or room device</span>\n        </div>
+	\n        <a class="me-email-headline" style="font-size: 14px\;font-family
+	:'Segoe UI Semibold'\,'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans
+	-serif\;text-decoration: underline\;color: #6264a7\;" href="https://teams.
+	microsoft.com/l/meetup-join/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread
+	.tacv2/1663619007963?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7
+	cd011db47%22%2c%22Oid%22%3a%2251e61f55-8b80-4e86-b936-84c85cd9db4c%22%7d" 
+	target="_blank" rel="noreferrer noopener">Click here to join the meeting</
+	a>\n    </div>\n    <div style="margin-bottom:20px\; margin-top:20px">\n  
+	  <div style="margin-bottom:4px">\n        <span data-tid="meeting-code" s
+	tyle="font-size: 14px\; color:#252424\;">\n            Meeting ID: <span s
+	tyle="font-size:16px\; color:#252424\;">229 505 202 791</span>\n       </s
+	pan>\n           <br><span style="font-size: 14px\; color:#252424\;"> Pass
+	code: </span> <span style="font-size: 16px\; color:#252424\;"> e27acC </sp
+	an>\n        <div style="font-size: 14px\;"><a class="me-email-link" style
+	="font-size: 14px\;text-decoration: underline\;color: #6264a7\;font-family
+	:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_bl
+	ank" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F
+	%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-teams%2Fdownload-app&amp\;data=05
+	%7C01%7Clikamrat%40microsoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f9
+	88bf86f141af91ab2d7cd011db47%7C1%7C0%7C637992158127266501%7CUnknown%7CTWFp
+	bGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D
+	%7C3000%7C%7C%7C&amp\;sdata=oTrA2Uf86uYrBLvVZT0fudlx4y%2Bu299Zz2YImrsgjGc%
+	3D&amp\;reserved=0" originalsrc="https://www.microsoft.com/en-us/microsoft
+	-teams/download-app" shash="oXIft17IaGoguRG963wN/P0fHa3ET3gUzlSSoHukdieaVb
+	Fb8MA6GiTUMXi+Qapoqqx61vSOvdGYDKvDCtjCQVwh8bOfLN4jLDK7mSPyBCDXJIRQJkNPYoUl
+	oDnHRRCclkJplOUljy5/d+XLgFfMpYtnoKPKumvZS0igxiXcjMg=" rel="noreferrer noop
+	ener">\n        Download Teams</a> | <a class="me-email-link" style="font-
+	size: 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Segoe
+	 UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" hr
+	ef="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.
+	microsoft.com%2Fmicrosoft-teams%2Fjoin-a-meeting&amp\;data=05%7C01%7Clikam
+	rat%40microsoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af9
+	1ab2d7cd011db47%7C1%7C0%7C637992158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWI
+	joiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C
+	%7C&amp\;sdata=VsrLJnd11pHI9JHP4RNxe2I9yklQt0aTLyTAYJW8NxA%3D&amp\;reserve
+	d=0" originalsrc="https://www.microsoft.com/microsoft-teams/join-a-meeting
+	" shash="N5CFwP55+RpI+8IocL0lG6Pd7Mg2ZmVeE5RTrVbYswvFl3Btr8qTX68CRXAiOodwJ
+	lV8JqErbtk8U3sOhtIHiBBlzA20O9JKqK7+r21nSvdWdaXL1/xdIBGfczqq8rFOwZlUZwBl4Cc
+	ko5HXZL2zD37GU1j03ajDdQQ2Kk/aX18=" rel="noreferrer noopener">Join on the w
+	eb</a></div>\n    </div>\n </div>\n    \n    \n	<div style="margin-bottom:
+	 4px\;">\n	<div style="margin-bottom: 4px\;">\n    <span style="font-size:
+	 14px\; color:#252424\; font-weight: bold">Or call in (audio only)</span>\
+	n    </div>	\n    \n	  <div style="margin-bottom: 4px\;">\n      <a style=
+	"font-size: 14px\;text-decoration: underline\;color: #6264a7\;" href="tel:
+	+13238494874\,\,285387578# ">+1 323-849-4874\,\,285387578#</a>\n      <spa
+	n style="font-size: 14px\; color:#252424\;">&nbsp\; United States\, Los An
+	geles </span>\n    </div>\n    \n	</div>\n  \n    \n    <span style="font-
+	size: 14px\; color:#252424\;">\n      Phone Conference ID:\n    </span>\n 
+	   <span style="font-size: 16px\; color:#252424\;">\n      285 387 578#\n 
+	   </span>\n    \n    \n      <div style="margin-bottom: 20px\;">\n      <
+	a class="me-email-link" style="font-size: 14px\;text-decoration: underline
+	\;color: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Ari
+	al\,sans-serif\;" target="_blank" href="https://nam06.safelinks.protection
+	.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F8551f4c1-bea3
+	-441a-8738-69aa517a91c5%3Fid%3D285387578&amp\;data=05%7C01%7Clikamrat%40mi
+	crosoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd
+	011db47%7C1%7C0%7C637992158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wL
+	jAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp\
+	;sdata=cM8lafNNahEWE81gAPQb4N5j%2FCx6Ve1n3mWmSNWZspo%3D&amp\;reserved=0" o
+	riginalsrc="https://dialin.teams.microsoft.com/8551f4c1-bea3-441a-8738-69a
+	a517a91c5?id=285387578" shash="u3lUwBtrvfIINBzlM8DjwOARqa1m7chsQYT4D7GjlmV
+	WDGeVRiYN3GUSMCSEd4GygSMEeN1sqYVAQTBYZaW1NXTf3suR0UR4SjUgPG55a9GZ+IhHnBAb7
+	X6a7E0vfUHp9DJvOkH73J8qq38h1qVel58Q6OWJDYSAP6T38+LKlq8=" rel="noreferrer n
+	oopener">Find a local number</a>\n   |\n   <a class="me-email-link" style=
+	"font-size: 14px\;text-decoration: underline\;color: #6264a7\;" target="_b
+	lank" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2
+	F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&amp\;data=05%7C01%
+	7Clikamrat%40microsoft.com%7C3c219a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86
+	f141af91ab2d7cd011db47%7C1%7C0%7C637992158127266501%7CUnknown%7CTWFpbGZsb3
+	d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C300
+	0%7C%7C%7C&amp\;sdata=1O0Uk48cJ39%2BSeV%2FBGGS4ze4U2W35ZoyaW8fH0Bavhw%3D&a
+	mp\;reserved=0" originalsrc="https://dialin.teams.microsoft.com/usp/pstnco
+	nferencing" shash="GP1CVi0cMWQ3m9vMLvWFNvpyIrR8cx3oSPPZZ9377OimtsNNgrb0e+j
+	6fW/dhm0YSWKjuJC6/ZKMfC2MJuyMvXFiFxG6yB0vhltBVjAnZDupv7fJKQxJWXfpHZ7Euy/HL
+	2N/k1nd4Ac/5H5aEneMG1+zlQoUiUeMQ4RfxwiYYT4=" rel="noreferrer noopener">\n 
+	    Reset PIN</a>\n     </div>\n   \n    \n    <div style="margin-bottom: 
+	24px\;margin-top: 20px\;">\n        <a class="me-email-link" style="font-s
+	ize: 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Segoe 
+	UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" hre
+	f="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.m
+	s%2FJoinTeamsMeeting&amp\;data=05%7C01%7Clikamrat%40microsoft.com%7C3c219a
+	2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C63
+	7992158127266501%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luM
+	zIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp\;sdata=%2Fbhk8afUsx%
+	2BqRStduNsZoLuqIntDm%2F8pYkg7hhK1IRw%3D&amp\;reserved=0" originalsrc="http
+	s://aka.ms/JoinTeamsMeeting" shash="SMEr6ux5xq/y4k7N+0ZCwHWPwYOL66CiG83EsP
+	bdvZ5wOMEe+E59IrPwTb4oSj3DYeipwrp/hQf1Y0mq3rf7NIFX0FaGi7mivsaF/yBJhPU7SxOO
+	EP05AxTmy6XiOccC6l7XhE3iHiCl0K/USqP4xoOF7uLngiPj+4Ye/fcsUWI=" rel="norefer
+	rer noopener">Learn More</a>  | <a class="me-email-link" style="font-size:
+	 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Segoe UI'\
+	,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" href="h
+	ttps://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.mic
+	rosoft.com%2FmeetingOptions%2F%3ForganizerId%3D51e61f55-8b80-4e86-b936-84c
+	85cd9db4c%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47%26threadId%3D1
+	9_227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2%26messageId%3D1663619007
+	963%26language%3Den-US&amp\;data=05%7C01%7Clikamrat%40microsoft.com%7C3c21
+	9a2b0b4e4bbaf78508da9a7cd10d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C
+	637992158127422709%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2l
+	uMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp\;sdata=OCqsn9l%2BG
+	DOkBb8C3NRh0C%2FYdgIkPj23sR1zcl8UJ4o%3D&amp\;reserved=0" originalsrc="http
+	s://teams.microsoft.com/meetingOptions/?organizerId=51e61f55-8b80-4e86-b93
+	6-84c85cd9db4c&amp\;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp\;thr
+	eadId=19_227a226ae75f4ffabc67f77a9d439d15@thread.tacv2&amp\;messageId=1663
+	619007963&amp\;language=en-US" shash="QBeQBA4tUOal2wZgy8uQ3gmgApPoPNpW4mSV
+	BPWXw+9Xl3iXjZ2FCQ/9Y9RAto1KJsp9MmGIkXq/Z2YkKvQxtl0ovUwm+pwSVWOtLTL6Lyi7ox
+	XGMK8TnGuX1L3W4eeflCn7Qv2m+HXpo6DYWJM09gkC233+qAYbbdYFaJ/ut9g=" rel="noref
+	errer noopener">Meeting options</a> \n      </div>\n</div>\n<div style="fo
+	nt-size: 14px\; margin-bottom: 4px\;font-family:'Segoe UI'\,'Helvetica Neu
+	e'\,Helvetica\,Arial\,sans-serif\;">\n\n</div>\n<div style="font-size: 12p
+	x\;">\n\n</div>\n\n</div>\n<div style="width:100%\;height: 20px\;">\n    <
+	span style="white-space:nowrap\;color:#5F5F5F\;opacity:.36\;">____________
+	____________________________________________________________________</span
+	>\n</div></div>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MS-OLK-APPTSEQTIME:20220919T202329Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
