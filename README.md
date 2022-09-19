@@ -10,7 +10,7 @@ Once a month, the various Azure Hybrid Cloud product groups at Microsoft will ho
 
 ## Who is the "community"?
 
-If you are a customer, partner, Microsoft employee or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
+If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
 
 ## Meetup agenda
 
@@ -27,7 +27,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 🔗 Meeting Teams link | [Join the Teams call](https://aka.ms/joinazurearcmeetup)
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
 | 🎥 Meeting recordings | [Watch](https://github.com/microsoft/azure_arc_community/tree/main/Recordings/Monthly)
-| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://aka.ms/AzureArcMeetupICS)
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Calendar%20Invite/Azure%20Arc%20Monthly%20Community%20Meetup.ics)
 
 > **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
