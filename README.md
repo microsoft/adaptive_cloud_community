@@ -24,7 +24,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Teams link | [Join the Teams call](https://aka.ms/joinazurearcmeetup)
+<!-- | 🔗 Meeting Teams link | [Join the Teams call](https://aka.ms/joinazurearcmeetup) -->
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
 | 🎥 Meeting recordings | [Watch](https://github.com/microsoft/azure_arc_community/tree/main/Recordings/Monthly)
 | 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Calendar%20Invite/Azure%20Arc%20Monthly%20Community%20Meetup.ics)
