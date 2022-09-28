@@ -24,8 +24,8 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🍪 Microsoft Teams Channel (Guests) | [If you are a guest, join the Microsoft Teams channel by submitting a form](https://aka.ms/joinazurearcmeetup)
-| 🍪 Microsoft Teams Channel (Microsoft FTE) | [If you are a Microsoft FTE, Join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
+| 🍪 Teams Channel - Guests | [If you are a guest, join the Microsoft Teams channel by submitting a form](https://aka.ms/joinazurearcmeetup)
+| 🍪 Teams Channel - Microsoft FTE | [If you are a Microsoft FTE, Join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
 | 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup)
 | 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Calendar%20Invite/Azure%20Arc%20Monthly%20Community%20Meetup.ics)
