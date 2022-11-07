@@ -42,7 +42,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 - ~~September 27th, 08:00 AM Pacific Time (PST)~~
 - ~~October 25th, 08:00 AM Pacific Time (PST) - Microsoft Ignite edition~~
-- November 22nd, 08:00 AM Pacific Time (PST)
+- November 29nd, 08:00 AM Pacific Time (PST)
 - December - No meetup (Holidays break)
 
 ## Azure Hybrid Cloud resources
