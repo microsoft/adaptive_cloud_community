@@ -45,6 +45,10 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 - November 22nd, 08:00 AM Pacific Time (PST)
 - December - No meetup (Holidays break)
 
+## Azure Hybrid AMA on Twitter Spaces
+
+Join Azure Hybrid + multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](/azure_arc_community/TwitterSpaces.md).
+
 ## Azure Hybrid Cloud resources
 
 - [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
