@@ -31,7 +31,6 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Calendar%20Invite/Azure%20Arc%20Monthly%20Community%20Meetup.ics)
 | 🎤 Azure Hybrid Community AMA (Twitter Spaces) | [Join Ask Me Anything (AMA)](./TwitterSpaces.md)
 
-
 > **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
 1. Download the _.ics_ file
