@@ -29,6 +29,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations/Monthly)
 | 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup)
 | 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Calendar%20Invite/Azure%20Arc%20Monthly%20Community%20Meetup.ics)
+| 🎤 Azure Hybrid Community AMA (Twitter Spaces) | [Join Ask Me Anything (AMA)](./TwitterSpaces.md)
 
 > **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
@@ -44,6 +45,10 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 - ~~October 25th, 08:00 AM Pacific Time (PST) - Microsoft Ignite edition~~
 - November 29nd, 08:00 AM Pacific Time (PST)
 - December - No meetup (Holidays break)
+
+## Azure Hybrid AMA on Twitter Spaces
+
+Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/).
 
 ## Azure Hybrid Cloud resources
 
