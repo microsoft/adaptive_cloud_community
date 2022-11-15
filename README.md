@@ -48,7 +48,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 ## Azure Hybrid AMA on Twitter Spaces
 
-Join Azure Hybrid + multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/).
+Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/).
 
 ## Azure Hybrid Cloud resources
 
