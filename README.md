@@ -41,7 +41,6 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 📅 **2022 Upcoming Meetings**:
 
-- ~~September 27th, 08:00 AM Pacific Time (PST)~~
 - ~~October 25th, 08:00 AM Pacific Time (PST) - Microsoft Ignite edition~~
 - ~~November 29nd, 08:00 AM Pacific Time (PST)~~
 - December - No meetup (Holidays break)
