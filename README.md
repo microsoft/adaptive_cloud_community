@@ -1,8 +1,8 @@
 # Microsoft Azure Arc Community Monthly Meetup
 
-## Overview
-
 ![Arc](img\arc.png)
+
+## Overview
 
 Once a month, the various Azure Hybrid Cloud product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Arc. The foundational goals of the call are highlighted below:
 
