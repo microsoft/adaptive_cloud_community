@@ -1,6 +1,6 @@
 # Microsoft Azure Arc Community Monthly Meetup
 
-![Arc](img\arc.png)
+![Arc](./img/arc.png)
 
 ## Overview
 
