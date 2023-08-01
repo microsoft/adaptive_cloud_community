@@ -1,18 +1,18 @@
-# Azure Arc, Edge and Platform Community
+# Azure Arc Edge and Platform Community
 
 ![Arc](./img/arc.png)
 
 ## Overview
 
-Once a month, the various Azure Arc, Edge and Platform product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Arc. The foundational goals of the call are highlighted below:
+Once a month, the various Azure Arc Edge and Platform product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Arc. The foundational goals of the call are highlighted below:
 
 - Provide the Azure Arc community with product updates
-- Host a short talk and/or demo on Azure Arc, Edge and Platform technologies and products technologies
+- Host a short talk and/or demo on Azure Arc Edge and Platform technologies and products technologies
 - Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Hybrid Cloud technologies and products
 
 ## Who is the "community"? 💬
 
-If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Arc, Edge and Platform solutions and technologies.
+If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Arc Edge and Platform solutions and technologies.
 
 ## Meetup agenda 📃
 
@@ -56,7 +56,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/). -->
 
-## Azure Arc, Edge and Platform resources 📄
+## Azure Arc Edge and Platform resources 📄
 
 - [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
 - [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
