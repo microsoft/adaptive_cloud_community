@@ -26,12 +26,12 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🍪 Teams Channel - Guests | [If you are a guest, join the Microsoft Teams channel by submitting this form](https://aka.ms/joinazurearcmeetup)
+| 🍪 Teams Channel - Guests | [If you are a guest, join the Microsoft Teams channel by submitting this form](https://aka.ms/ArcEdgeCommunityForm)
 | 🍪 Teams Channel - Microsoft FTE | [If you are a Microsoft FTE, join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations)
 | 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup)
 | 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://1drv.ms/u/s!ApeID0DmHjgfn21ruEnDrXcE0rEQ?e=lxfRJf)
-| 🎤 Azure Hybrid Community AMA (Twitter Spaces) | [Join Ask Me Anything (AMA)](./TwitterSpaces.md)
+<!-- | 🎤 Azure Hybrid Community AMA (Twitter Spaces) | [Join Ask Me Anything (AMA)](./TwitterSpaces.md) -->
 
 > **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
