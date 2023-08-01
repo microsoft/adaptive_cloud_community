@@ -1,18 +1,18 @@
-# Microsoft Azure Arc Community Monthly Meetup
+# Azure Arc, Edge and Platform Community
 
 ![Arc](./img/arc.png)
 
 ## Overview
 
-Once a month, the various Azure Hybrid Cloud product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Arc. The foundational goals of the call are highlighted below:
+Once a month, the various Azure Arc, Edge and Platform product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding Azure Arc. The foundational goals of the call are highlighted below:
 
 - Provide the Azure Arc community with product updates
-- Host a short talk and/or demo on Azure Hybrid Cloud technologies and products technologies
+- Host a short talk and/or demo on Azure Arc, Edge and Platform technologies and products technologies
 - Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Hybrid Cloud technologies and products
 
 ## Who is the "community"? 💬
 
-If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Hybrid Cloud solutions and technologies.
+If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Arc, Edge and Platform solutions and technologies.
 
 ## Meetup agenda 📃
 
@@ -49,17 +49,18 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 - ~~April 25th, 08:00 AM Pacific Time (PST)~~
 - ~~May 30th, 08:00 AM Pacific Time (PST) - Canceled (US post Memorial Day weekend and //Build 2023)~~
 - ~~June 27th, 08:00 AM Pacific Time (PST)~~
-- July 25th, 08:00 AM Pacific Time (PST) - Canceled
+- ~~July 25th, 08:00 AM Pacific Time (PST) - Canceled~~
+- August 29th, 08:00 AM Pacific Time (PST)
 
-## Azure Hybrid AMA on Twitter Spaces 🐥
+<!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
 
-Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/).
+Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/). -->
 
-## Azure Hybrid Cloud resources 📄
+## Azure Arc, Edge and Platform resources 📄
 
 - [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
-- [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 - [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
+- [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 - [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
 
 ## Contact Us 📞
