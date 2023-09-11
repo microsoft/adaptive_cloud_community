@@ -33,7 +33,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://1drv.ms/u/s!ApeID0DmHjgfn21ruEnDrXcE0rEQ?e=lxfRJf)
 <!-- | 🎤 Azure Hybrid Community AMA (Twitter Spaces) | [Join Ask Me Anything (AMA)](./TwitterSpaces.md) -->
 
-> **NOTE**: If you are using Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
+> **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
 1. Download the _.ics_ file
 2. Open Outlook for the web
@@ -50,7 +50,8 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 - ~~May 30th, 08:00 AM Pacific Time (PST) - Canceled (US post Memorial Day weekend and //Build 2023)~~
 - ~~June 27th, 08:00 AM Pacific Time (PST)~~
 - ~~July 25th, 08:00 AM Pacific Time (PST) - Canceled~~
-- August 29th, 08:00 AM Pacific Time (PST)
+- ~~August 29th, 08:00 AM Pacific Time (PST) - Canceled~~
+- September 12th, 08:00 AM Pacific Time (PST)
 
 <!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
 
