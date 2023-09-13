@@ -51,7 +51,8 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 - ~~June 27th, 08:00 AM Pacific Time (PST)~~
 - ~~July 25th, 08:00 AM Pacific Time (PST) - Canceled~~
 - ~~August 29th, 08:00 AM Pacific Time (PST) - Canceled~~
-- September 12th, 08:00 AM Pacific Time (PST)
+- ~~September 12th, 08:00 AM Pacific Time (PST)~~
+- October 10th, 08:00 AM Pacific Time (PST)
 
 <!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
 
