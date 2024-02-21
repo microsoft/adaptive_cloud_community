@@ -41,18 +41,9 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 ## Schedule 📅
 
-**2023 Upcoming Meetings**:
+**2024 Upcoming Meetings**:
 
-- ~~January 31st, 08:00 AM Pacific Time (PST)~~
-- ~~February 28th, 08:00 AM Pacific Time (PST)~~
-- ~~March 28th, 08:00 AM Pacific Time (PST) - Canceled~~
-- ~~April 25th, 08:00 AM Pacific Time (PST)~~
-- ~~May 30th, 08:00 AM Pacific Time (PST) - Canceled (US post Memorial Day weekend and //Build 2023)~~
-- ~~June 27th, 08:00 AM Pacific Time (PST)~~
-- ~~July 25th, 08:00 AM Pacific Time (PST) - Canceled~~
-- ~~August 29th, 08:00 AM Pacific Time (PST) - Canceled~~
-- ~~September 12th, 08:00 AM Pacific Time (PST)~~
-- October 10th, 08:00 AM Pacific Time (PST)
+- March 12, 08:00 AM Pacific Time (PST)
 
 <!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
 
