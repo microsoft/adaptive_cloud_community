@@ -1,6 +1,6 @@
 # Azure Adaptive cloud cloud Community
 
-![Arc](./img/arc.png)
+![Arc](./img/adaptivecloud.png)
 
 ## Overview
 
