@@ -1,4 +1,4 @@
-# Azure Adaptive cloud cloud Community
+# Azure Adaptive Cloud Community
 
 ![Arc](./img/adaptivecloud.png)
 
