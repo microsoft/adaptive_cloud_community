@@ -43,7 +43,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 **2024 Upcoming Meetings**:
 
-- March 12, 08:00 AM Pacific Time (PT)
+- April 3rd, 08:00 AM Pacific Time (PT)
 
 <!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
 
