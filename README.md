@@ -58,7 +58,7 @@ Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to l
 
 ## Contact Us 📞
 
-Reach out to us on our Teams channel (make sure to use the @General hashtag) or at [distribution list](mailto:arccustomermeetleads@microsoft.com) and we'll make sure to answer your questions as soon as possible!
+Reach out to us on our Teams channel (make sure to use the @General hashtag) or at [distribution list](mailto:AdaptiveCloudCommPM@microsoft.com) and we'll make sure to answer your questions as soon as possible!
 
 ## Contributing 🛠️
 
