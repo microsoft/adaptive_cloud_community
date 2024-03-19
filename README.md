@@ -44,6 +44,8 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 **2024 Upcoming Meetings**:
 
 - April 3rd, 08:00 AM Pacific Time (PT)
+- May 1st, 08:00 AM Pacific Time (PT)
+- June 5th, 08:00 AM Pacific Time (PT)
 
 <!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
 
@@ -51,10 +53,13 @@ Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to l
 
 ## Adaptive cloud resources 📄
 
+- [Azure Adaptive Cloud](https://azure.microsoft.com/solutions/hybrid-cloud-app/)
 - [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
 - [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
 - [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 - [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
+- [Azure IoT Operations](https://learn.microsoft.com/azure/iot-operations/)
+- [Azure Kubernetes Service (AKS) enabled by Azure Arc documentation](https://learn.microsoft.com/azure/aks/hybrid/)
 
 ## Contact Us 📞
 
