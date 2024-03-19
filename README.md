@@ -58,8 +58,8 @@ Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to l
 - [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
 - [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 - [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
-- [Azure IoT](https://learn.microsoft.com/azure/iot/)
-- [Azure Kubernetes Service (AKS) enabled by Azure Arc documentation](https://learn.microsoft.com/azure/aks/hybrid/)
+- [Azure IoT Documentations](https://learn.microsoft.com/azure/iot/)
+- [Azure Kubernetes Service (AKS) enabled by Azure Arc Documentations](https://learn.microsoft.com/azure/aks/hybrid/)
 
 ## Contact Us 📞
 
