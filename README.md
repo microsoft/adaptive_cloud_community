@@ -55,7 +55,7 @@ Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to l
 
 - [Azure Adaptive Cloud](https://azure.microsoft.com/solutions/hybrid-cloud-app/)
 - [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
-- [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
+- [Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
 - [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
 - [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
 - [Azure IoT Documentations](https://learn.microsoft.com/azure/iot/)
