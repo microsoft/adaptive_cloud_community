@@ -4,15 +4,15 @@
 
 ## Overview
 
-Once a month, the various Adaptive cloud product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding hybrid, multicloud, and edge. The foundational goals of the call are highlighted below:
+Once a month, the various Adaptive Cloud product groups at Microsoft will hold a call to showcase new features, talk through important topics and engage in a Q&A regarding hybrid, multicloud, and edge. The foundational goals of the call are highlighted below:
 
-- Provide the Adaptive cloud community with product updates for products and services such as Azure Arc, Azure Stack HCI, Azure IoT, AKS and much more.
-- Host a short talk and/or demo on Azure Adaptive cloud technologies and products technologies
-- Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Adaptive cloud technologies and products
+- Provide the Adaptive Cloud community with product updates for products and services such as Azure Arc, Azure Stack HCI, Azure IoT, AKS and much more.
+- Host a short talk and/or demo on Azure Adaptive Cloud technologies and products technologies
+- Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Adaptive Cloud technologies and products
 
 ## Who is the "community"? 💬
 
-If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Adaptive cloud solutions and technologies.
+If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Adaptive Cloud solutions and technologies.
 
 ## Meetup agenda 📃
 
@@ -26,12 +26,11 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 
 | Asset      | Link        |
 |:-----------|:------------|
-| 🍪 Teams Channel - Guests | [If you are a guest, join the Microsoft Teams channel by submitting this form](https://aka.ms/AdaptiveCloudCommunityTeamsForm)
-| 🍪 Teams Channel - Microsoft FTE | [If you are a Microsoft FTE, join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
-| 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations)
-| 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup)
-| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://github.com/microsoft/adaptive_cloud_community/blob/main/AdaptiveCloudCommunityCall.ics) (right-click and select Save Target/Link As in order to download the file correctly) to put a recurring event on your calendar.
-<!-- | 🎤 Azure Hybrid Community AMA (Twitter Spaces) | [Join Ask Me Anything (AMA)](./TwitterSpaces.md) -->
+| 🍪 Teams Channel - Guests | [If you are a guest, join the Microsoft Teams channel by submitting this form](https://aka.ms/AdaptiveCloudCommunityTeamsForm) |
+| 🍪 Teams Channel - Microsoft FTE | [If you are a Microsoft FTE, join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) |
+| 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations) |
+| 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup) |
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://github.com/microsoft/adaptive_cloud_community/blob/main/AdaptiveCloudCommunityCall.ics) (right-click and select Save Target/Link As in order to download the file correctly) to put a recurring event on your calendar. |
 
 > **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
@@ -47,19 +46,26 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 - May 1st, 08:00 AM Pacific Time (PT)
 - June 5th, 08:00 AM Pacific Time (PT)
 
-<!-- ## Azure Hybrid AMA on Twitter Spaces 🐥
+## Adaptive Cloud resources 📄
 
-Join Azure Hybrid & Multicloud experts from Microsoft and the MVP community to learn about new product features, releases and to find answers to challenging hybrid and multicloud problems. Live on Twitter! Learn more [here](TwitterSpaces.md/). -->
+To learn about Microsoft's Azure Adaptive Cloud approche, [get started with our homepage](https://azure.microsoft.com/solutions/hybrid-cloud-app/).
 
-## Adaptive cloud resources 📄
+### Adaptive Cloud blogs
 
-- [Azure Adaptive Cloud](https://azure.microsoft.com/solutions/hybrid-cloud-app/)
-- [Azure Arc Documentations](https://docs.microsoft.com/azure/azure-arc/)
-- [Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
-- [Azure Stack HCI Documentations](https://docs.microsoft.com/azure-stack/hci/)
-- [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
-- [Azure IoT Documentations](https://learn.microsoft.com/azure/iot/)
+- [Harmonizing AI-enhanced physical and cloud operations](https://azure.microsoft.com/blog/harmonizing-ai-enhanced-physical-and-cloud-operations/)
+- [Advancing hybrid cloud to adaptive cloud with Azure](https://azure.microsoft.com/blog/advancing-hybrid-cloud-to-adaptive-cloud-with-azure/)
+
+### Azure documentation
+
+- [Azure Arc Documentations](https://learn.microsoft.com/azure/azure-arc/)
+- [Azure Stack HCI Documentations](https://learn.microsoft.com/azure-stack/hci/)
 - [Azure Kubernetes Service (AKS) enabled by Azure Arc Documentations](https://learn.microsoft.com/azure/aks/hybrid/)
+- [Azure IoT Documentations](https://learn.microsoft.com/azure/iot/)
+
+### Addtional key assets
+
+- [Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
+- [Azure Arc Landing Zone Accelerators](https://aka.ms/ArcLZAcceleratorReady)
 
 ## Contact Us 📞
 
