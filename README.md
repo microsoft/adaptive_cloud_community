@@ -1,6 +1,6 @@
 # Azure Adaptive Cloud Community
 
-![Arc](./img/AdaptiveCloudCommunityThumbnail.png)
+![Adaptive Cloud Community](./img/AdaptiveCloudCommunityThumbnail.png)
 
 ## Overview
 
@@ -14,7 +14,7 @@ Once a month, the various Adaptive Cloud product groups at Microsoft will hold a
 
 If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Adaptive Cloud solutions and technologies.
 
-![Arc](./img/adaptivecloud.png)
+![Adaptive Cloud Overview](./img/adaptivecloud.png)
 
 ## Meetup agenda 📃
 
