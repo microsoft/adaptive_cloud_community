@@ -10,11 +10,11 @@ Once a month, the various Adaptive Cloud product groups at Microsoft will hold a
 - Host a short talk and/or demo on Azure Adaptive Cloud technologies and products technologies
 - Collect feedback from the community on issues, blockers, use cases, and questions related to Azure Adaptive Cloud technologies and products
 
+![Adaptive Cloud Overview](./img/adaptivecloud.png)
+
 ## Who is the "community"? 💬
 
 If you are a customer, partner, Microsoft employee, or just someone who loves tech, for us, you are part of our community. The content presented in our calls is **not under a non-disclosure agreement (NDA)** and is public because our mission is just to spread the ❤️ for Azure Adaptive Cloud solutions and technologies.
-
-![Adaptive Cloud Overview](./img/adaptivecloud.png)
 
 ## Meetup agenda 📃
 
