@@ -32,11 +32,11 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
 | 🍪 Teams Channel - Microsoft FTE | [If you are a Microsoft FTE, join the Microsoft Teams channel using this link](https://teams.microsoft.com/l/team/19%3a227a226ae75f4ffabc67f77a9d439d15%40thread.tacv2/conversations?groupId=f4ccf9df-0dc2-4282-a392-652117be03e7&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47) |
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations) |
 | 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup) |
-| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://github.com/microsoft/adaptive_cloud_community/blob/main/Adaptive%20Cloud%20Community%20Call.ics) (right-click and select Save Target/Link As in order to download the file correctly) to put a recurring event on your calendar. |
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar. |
 
 > **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
-1. Download the _.ics_ file (right click save as)
+1. Download the _.ics_ file 
 2. Open Outlook for the web
 3. Drag and drop the _.ics_ file onto your calendar
 
