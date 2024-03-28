@@ -18,7 +18,7 @@ If you are a customer, partner, Microsoft employee, or just someone who loves te
 
 ## Meetup agenda 📃
 
-Each monthly meetup will be 1 hour, don't be late, we have a lot to cover 🤓
+Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 
 - 2 minutes: Welcome
 - 45-50 minutes: Product updates
