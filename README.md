@@ -44,13 +44,13 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 
 **2024 Upcoming Meetings**:
 
-- ~~April 3rd, 08:00 AM Pacific Time (PT)~~ 
-- May 8th, 08:00 AM Pacific Time (PT) [JOIN US](https://aka.ms/JoinAdaptiveCloudCommunityCall) - This one is moved from the 1st of May because of laborday in many different countries. [Download ICS file for May 8th](https://1drv.ms/u/s!AjzsdFsNoJhygb33EgkXKvAKoKANiVY?e=VtVWY2)
 - June 5th, 08:00 AM Pacific Time (PT)
+  - [JOIN US](https://aka.ms/JoinAdaptiveCloudCommunityCall)
+  - [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar.
 
 ## Adaptive Cloud resources 📄
 
-To learn about Microsoft's Azure Adaptive Cloud approche, [get started with our homepage](https://azure.microsoft.com/solutions/hybrid-cloud-app/).
+To learn about Microsoft's Azure Adaptive Cloud approach, [get started with our homepage](https://azure.microsoft.com/solutions/hybrid-cloud-app/).
 
 ### Adaptive Cloud blogs
 
