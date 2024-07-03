@@ -36,7 +36,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 
 > **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
-1. Download the _.ics_ file 
+1. Download the _.ics_ file
 2. Open Outlook for the web
 3. Drag and drop the _.ics_ file onto your calendar
 
@@ -44,7 +44,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 
 **2024 Upcoming Meetings**:
 
-- June 5th, 08:00 AM Pacific Time (PT)
+- August 7th, 08:00 AM Pacific Time (PT)
   - [JOIN US](https://aka.ms/JoinAdaptiveCloudCommunityCall)
   - [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar.
 
