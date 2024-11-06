@@ -6,7 +6,7 @@ Stay up to date with our Ignite blogs, see all adaptive cloud sessions, and sign
 
 ## Blogs
 
-Explore our guide to Adaptive Cloud at Ignite, which includes the latest advancements in Microsoft Azure's [adaptive cloud approach](https://aka.ms/ignite24/blog/adaptivecloudguide), new solutions and offerings, must-attend Ignite sessions, and a full list of links to every adaptive cloud Ignite blog post
+Explore our guide to Adaptive Cloud at Ignite, which includes the latest advancements in Microsoft Azure's [adaptive cloud approach](https://aka.ms/ignite24/blog/adaptivecloudguide), new solutions and offerings, must-attend Ignite sessions, and a full list of links to every adaptive cloud Ignite blog post.
 
 [See the Guide](https://azure.microsoft.com/solutions/hybrid-cloud-app/)
 
