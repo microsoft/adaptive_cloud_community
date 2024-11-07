@@ -75,7 +75,7 @@ To learn about Microsoft's Azure Adaptive Cloud approach, [get started with our 
 
 Reach out to us on our Teams channel (make sure to use the @General hashtag) or at [distribution list](mailto:AdaptiveCloudCommPM@microsoft.com) and we'll make sure to answer your questions as soon as possible!
 
-## Contributing 🛠️
+## Contributing 🛠️🛠️
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
