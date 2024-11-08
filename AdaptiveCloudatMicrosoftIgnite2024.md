@@ -61,6 +61,10 @@ See a our full list of Adaptive Cloud sessions at Microsoft Ignite 2024. As you 
 
 ## Sign up for Research
 
+We'd love your feedback on Adaptive Cloud strategy, AI/ML, security, Kubernetes, or deployment/management at scale. Please take our brief survey below to help us create products that better meet your needs.
+
+[Take the survey](https://aka.ms/ACX/Ignite24)
+
 Interested in participating in customer research on topics related to Microsoft Azure's adaptive cloud approach? Join our research participant panel through the link below.
 
 [Sign up for Azure User Research](https://ux.microsoft.com/panel/AzureHybrid)
