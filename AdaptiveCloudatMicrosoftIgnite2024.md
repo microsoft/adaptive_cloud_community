@@ -61,7 +61,7 @@ See a our full list of Adaptive Cloud sessions at Microsoft Ignite 2024. As you 
 
 ## Sign up for Research
 
-We'd love your feedback on Adaptive Cloud strategy, AI/ML, security, Kubernetes, or deployment/management at scale. Please take our brief survey below to help us create products that better meet your needs.
+We'd love your feedback on adaptive cloud strategy, AI/ML, security, Kubernetes, or deployment/management at scale. Please take our brief survey below to help us create products that better meet your needs.
 
 [Take the survey](https://aka.ms/ACX/Ignite24)
 
