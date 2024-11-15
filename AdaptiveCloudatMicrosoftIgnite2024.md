@@ -23,6 +23,7 @@ See a our full list of Adaptive Cloud sessions at Microsoft Ignite 2024. As you 
 | 2:00-2:30 PM CDT      | [Enhance cloud native troubleshooting with Azure Monitor & Chaos Studio](https://ignite.microsoft.com/sessions/THR623?source=sessions)                               | Demo         |
 | 2:45-3:15 PM CDT      | [Profitable SPLA Modernization for ISVs & Hybrid Cloud Partners](https://ignite.microsoft.com/sessions/THR676?source=/speakers/991f681d-0645-4ffb-bf2a-0f108c8a3d47) | Demo         |
 | 3:00-4:15 PM CDT      | [Accelerate Windows Server modernization and migration with Azure Arc](https://ignite.microsoft.com/sessions/LAB427?source=sessions)                                 | Hands-on-Lab |
+| 4:00-4:45 PM CDT      | [How AI is transforming the migration economic opportunity for partners](https://ignite.microsoft.com/sessions/BRK247?source=sessions)                               | Breakout     |  
 | 5:30-6:00 PM CDT      | [Secure, develop and innovate in a hybrid world with Microsoft and Dell](https://ignite.microsoft.com/sessions/THR673?source=sessions)                               | Demo         |
 
 ### Wednesday, November 20
@@ -35,7 +36,6 @@ See a our full list of Adaptive Cloud sessions at Microsoft Ignite 2024. As you 
 | 10:15-10:45 AM CDT | [Explore next-gen industrial transformation architecture patterns](https://ignite.microsoft.com/sessions/THR666?source=sessions)         | Demo         |
 | 1:15-1:30 PM CDT   | [Fortify critical applications with Azure Business Continuity Center](https://ignite.microsoft.com/sessions/THR520?source=sessions)      | Demo         |
 | 1:15-2:30 PM CDT   | [Accelerate Windows Server modernization and migration with Azure Arc](https://ignite.microsoft.com/sessions/LAB427?source=sessions)     | Hands-on-Lab |
-| 4:00-4:45 PM CDT   | [How AI is transforming the migration economic opportunity for partners](https://ignite.microsoft.com/sessions/BRK247?source=sessions)   | Breakout     |
 | 5:00-5:45 PM CDT   | [Simplify operations with AI: Copilot, Azure Arc, and Azure Monitor](https://ignite.microsoft.com/sessions/BRK219?source=sessions)       | Breakout     |
 | 6:30-7:45 PM CDT   | [Securing and managing mission critical Windows Servers with Arc](https://ignite.microsoft.com/sessions/LAB431)                          | Hands-on-Lab |
 
