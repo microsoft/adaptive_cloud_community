@@ -45,7 +45,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 
 **2025 Upcoming Meetings**:
 
-- March 5th, 08:00 AM Pacific Time (PT)
+- April 2nd, 08:00 AM Pacific Time (PT)
 
   - [JOIN US](https://aka.ms/JoinAdaptiveCloudCommunityCall)
   - [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar.
