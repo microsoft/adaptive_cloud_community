@@ -1,6 +1,10 @@
 # Thank you for your interest in the Adaptive Cloud Community Call!
 
-The next Adaptive Cloud Community Call will be on **April 2nd, 2025 from 8-9 AM Pacific Time (PT)**. These calls are held the first Wednesday of each month. To put a recurring event on your calendar, please [download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh).
+The next Adaptive Cloud Community Call will be on **April 2nd, 2025 from 8-9 AM Pacific Time (PT)**. 
+
+This link (https://aka.ms/JoinAdaptiveCloudCommunityCall) will be updated and redirected to the meeting link closer to the call date. 
+
+These calls are held the first Wednesday of each month. To put a recurring event on your calendar, please [download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh).
 
 > **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
