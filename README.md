@@ -33,7 +33,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 | 🍪 LinkedIn Group | [Join the Adaptive Cloud LinkedIn Group using this link](https://aka.ms/adaptivecloudlinkedin) |
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations) |
 | 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup) |
-| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar. |
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Adaptive%20Cloud%20Community%20Call.ics) to put a recurring event on your calendar. |
 
 > **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
@@ -48,7 +48,7 @@ Each monthly meetup will be 1 hour, don't be late, we have a lot to cover! 🤓
 - July 2nd, 08:00 AM Pacific Time (PT)
 
   - [JOIN US](https://aka.ms/JoinAdaptiveCloudCommunityCall)
-  - [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar.
+  - [Download the _ics_ file](./Adaptive%20Cloud%20Community%20Call.ics) to put a recurring event on your calendar.
 
 ## Adaptive Cloud resources 📄
 
