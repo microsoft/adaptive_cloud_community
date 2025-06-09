@@ -4,7 +4,7 @@ The next Adaptive Cloud Community Call will be on **July 2nd, 2025 from 8-9 AM P
 
 This link (https://aka.ms/JoinAdaptiveCloudCommunityCall) will be updated and redirected to the meeting link closer to the call date. 
 
-These calls are held the first Wednesday of each month. To put a recurring event on your calendar, please [download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh).
+These calls are held the first Wednesday of each month. To put a recurring event on your calendar, please [download the _ics_ file](./Adaptive%20Cloud%20Community%20Call.ics).
 
 > **NOTE**: If you use Outlook for Mac, you may have trouble adding the invite to your calendar. In order to avoid issues, follow the steps below:
 
@@ -21,4 +21,4 @@ These calls are held the first Wednesday of each month. To put a recurring event
 | 🍪 LinkedIn Group | [Join the Adaptive Cloud LinkedIn Group using this link](https://aka.ms/adaptivecloudlinkedin) |
 | 📝 Meeting presentations | [View](https://github.com/microsoft/azure_arc_community/tree/main/Presentations) |
 | 🎥 Meeting recordings | [Watch](https://aka.ms/ArcMeetup) |
-| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](https://1drv.ms/u/s!AjzsdFsNoJhygb3cbgT0IkpJu0SX1rw?e=1XkAfh) to put a recurring event on your calendar. |
+| 📅 Upcoming meetup calendar invite | [Download the _ics_ file](./Adaptive%20Cloud%20Community%20Call.ics) to put a recurring event on your calendar. |
