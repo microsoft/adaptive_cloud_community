@@ -1,6 +1,6 @@
 # Thank you for your interest in the Adaptive Cloud Community Call!
 
-The next Adaptive Cloud Community Call will be on **August 6th, 2025 from 8-9 AM Pacific Time (PT)**. 
+The Adaptive Cloud Community Call will return in Fall 2025 - thanks for checking in! 
 
 This link (https://aka.ms/JoinAdaptiveCloudCommunityCall) will be updated and redirected to the meeting link closer to the call date. 
 
